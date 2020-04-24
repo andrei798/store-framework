@@ -1,7 +1,11 @@
 {
   "store.product": {
     "children": [
-      "flex-layout.row#main"
+      "flex-layout.row#main",
+      "product-images",
+      "product-price",
+      "product-name",
+      "buy-button"
     ]
    },
 
@@ -26,7 +30,7 @@
         "verticalAlign": "middle",
         "preventVerticalStretch": true
       },
-      "blocks": [
+      "children": [
         "product-name",
         "product-price",
         "buy-button"
