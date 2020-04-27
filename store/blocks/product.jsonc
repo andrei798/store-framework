@@ -35,7 +35,8 @@
   "sku-selector": {
     "props": {
       "initialSelection": "empty",
-      "showValueForVariation": "all"
+      "showVariationsLabels": true,
+      "showVariationsErrorMessage": true
     }
   },
    "flex-layout.col#right": {
