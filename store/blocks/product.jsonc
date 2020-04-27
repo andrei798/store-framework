@@ -45,11 +45,7 @@
       "children": [
         "product-name",
         "product-price",
-        "buy-button"
-      ],
-      "blocks": [
-        "product-name",
-        "product-price",
+        "sku-selector",
         "buy-button"
       ]
     },
