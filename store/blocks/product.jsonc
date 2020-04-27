@@ -32,6 +32,12 @@
       "height": 30 
     }
   },
+  "sku-selector": {
+    "props": {
+      "initialSelection": "empty",
+      "showValueForVariation": "all"
+    }
+  },
    "flex-layout.col#right": {
      "children": [
        "product-name",
